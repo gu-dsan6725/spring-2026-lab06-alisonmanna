@@ -566,3 +566,4 @@ if __name__ == "__main__":
 
 - **Streamable HTTP** (recommended): `mcp.run(transport="streamable-http")`
 - **stdio**: `mcp.run(transport="stdio")` - for subprocess-based clients
+
